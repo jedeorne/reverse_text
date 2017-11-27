@@ -1,0 +1,10 @@
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### OS X noise ###
+.DS_Store
+
+target/
